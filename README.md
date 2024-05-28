@@ -15,4 +15,8 @@
 
 ![updated](https://github.com/rohitkumar4826/crudapp/assets/99860834/5a8e8325-a0dd-4117-8675-4dbe1e43280d)
 
+# Deleted Student
+
+![Deleted](https://github.com/rohitkumar4826/crudapp/assets/99860834/dbeb78b2-13eb-4658-859a-49a9081eed23)
+
 
